@@ -1,1 +1,1 @@
-#Please URLs on new lines for script to parse
+#Place URLs on new lines for script to parse
